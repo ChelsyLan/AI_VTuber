@@ -1,0 +1,59 @@
+# 1. Aurum Dusk
+Scent Profile: Amber, Vanilla, Sandalwood
+Description:
+As the golden hour descends, Aurum Dusk envelopes you in the warm embrace of amber and vanilla, gently transitioning into the soft, woody whispers of sandalwood. A luxurious scent for moments that deserve timelessness.
+Price: $200 -> discounted to $180
+
+# 2. Celeste Jardin
+Scent Profile: Jasmine, Bergamot, White Musk
+Description:
+Discover serenity with Celeste Jardin, an enchanting blend of blooming jasmine and crisp bergamot, enveloped by the gentle caress of white musk. A scent that takes you to a celestial garden in full bloom.
+Price: $130
+
+# 3. Noir Rouge
+Scent Profile: Blackcurrant, Rose, Patchouli
+Description:
+Bold, seductive, and intense, Noir Rouge intertwines the lusciousness of blackcurrant with the elegance of rose, grounded by the earthy allure of patchouli. A fragrance for the daring soul.
+Price: $200
+
+# 4. Verde Luxe
+Scent Profile: Green Tea, Lime, Vetiver
+Description:
+Experience sophistication with Verde Luxe, a revitalizing blend of green tea and zesty lime, laid on a base of smooth vetiver. A fresh and refined scent that leaves an impression of effortless elegance.
+Price: $110 -> discounted to $100
+
+# 5. Azure Mirage
+Scent Profile: Oceanic Notes, Sea Salt, Driftwood
+Description:
+Let the breeze of the open ocean carry you away with Azure Mirage, a captivating fragrance that blends refreshing oceanic notes, crisp sea salt, and the rugged essence of driftwood. Dive into the mystery of the deep blue.
+Price: $120
+
+# 6. Ivory Bloom
+Scent Profile: Peony, White Peach, Powdery Musk
+Description:
+Soft and feminine, Ivory Bloom is a delicate bouquet of fresh peony petals and juicy white peach, enveloped in the gentle hug of powdery musk. A graceful scent for life’s most tender moments.
+Price: $140 -> discounted to $130
+
+# 7. Café Noir
+Scent Profile: Coffee Bean, Tonka Bean, Dark Chocolate
+Description:
+Indulge your senses with Café Noir, a rich, gourmand blend of freshly brewed coffee beans, creamy tonka, and the allure of dark chocolate. A scent that feels like a cozy corner in your favorite café.
+Price: $90
+
+# 8. Luna Embrace
+Scent Profile: Lavender, Honey, Warm Cashmere
+Description:
+Embrace tranquility with Luna Embrace, a soothing mix of calming lavender and the golden sweetness of honey, wrapped in the comforting warmth of cashmere. A fragrance for those quiet moonlit nights.
+Price: $150
+
+# 9. Amber Mystique
+Scent Profile: Oud, Saffron, Leather
+Description:
+Envelop yourself in mystery with Amber Mystique, a luxurious blend of deep oud, spicy saffron, and rich leather. A scent for the sophisticated and enigmatic.
+Price: $200
+
+# 10. Blush Reverie
+Scent Profile: Lychee, Rose Petal, Pink Pepper
+Description:
+Dream in shades of blush with Blush Reverie, where sweet lychee meets the romance of rose petals, with a playful hint of pink pepper. A fragrance that feels like love at first sight.
+Price: $85

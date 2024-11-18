@@ -1,0 +1,24 @@
+# Core directory files
+# Due to the license of Live2D, those Core files were not originally included
+# and I had to manually download and put them.
+# TODO: Check Live2D license and delete/ignore them if needed.
+# /Core/*.js
+# /Core/*.ts
+
+# Package files
+node_modules/
+# Build files
+build/
+dist/
+# Other files
+temp/
+.vs/
+.idea/
+*.iml
+.DS_Store
+# Exclude some VSCode setting files.
+.vscode/*
+!/.vscode/extensions.json
+!/.vscode/launch.json
+!/.vscode/settings.json
+!/.vscode/tasks.json
